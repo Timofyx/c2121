@@ -197,7 +197,7 @@ brands_of_car = {
     "Ferrari": {"fuel": 80, "strength": 120, "consumption": 14}
 }
 
-persona = Human(name='Joker')
+persona = Human(name='Vasya')
 
 for day in range (1, 8):
     if persona.live(day) == False:
